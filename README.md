@@ -1,5 +1,5 @@
 # String-Repetition
-Write a program to print the given input word three times in a single line separated by spaces
+**Write a program to print the given input word three times in a single line separated by spaces**
 Explanation:
 Step 1: Get the user's input
 The first thing we need to do is get the user's input. We'll use the input() function to do this. The input() function waits for the user to type something, and then it stores the typed text in a variable. Let's call this variable word. 
